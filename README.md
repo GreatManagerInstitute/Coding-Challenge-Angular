@@ -13,7 +13,7 @@ Feel free to add in any other cool tweaks or features.
 
 **API**
 =====
-Url : https://valuefy-assignment-x.herokuapp.com/api/getVideos
+Url : Add API here
 
 The API Handles the request by sending back an array or links to various Youtube Trailer videos.
 
