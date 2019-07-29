@@ -1,11 +1,11 @@
-# Assignment - Frontend Angular
+# Assignment
 **Code Challenge: Build A Movie Player**
 
 The Challenge is to build a movie player with image thumbnails with a playlist section and a separate section to play the selected video.
 
 Feel free to add in any other cool tweaks or features.
 
-[Sample Video](https://valuefy-assignment-x.herokuapp.com/sample)
+[Sample Video](http://video-player-hosting.s3-website.ap-south-1.amazonaws.com)
 
 **Tech Requirements:**
 
