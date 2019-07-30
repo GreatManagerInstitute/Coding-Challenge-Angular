@@ -5,7 +5,7 @@ The Challenge is to build a movie player with image thumbnails with a playlist s
 
 Feel free to add in any other cool tweaks or features.
 
-[Sample Video](http://video-player-hosting.s3-website.ap-south-1.amazonaws.com)
+[Sample Video](https://s3.ap-south-1.amazonaws.com/s3.gpms/videoForCodingChallenge.webp)
 
 **Tech Requirements:**
 
