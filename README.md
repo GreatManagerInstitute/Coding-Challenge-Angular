@@ -13,7 +13,7 @@ Feel free to add in any other cool tweaks or features.
 
 **API**
 =====
-Url : https://api-uat.greatmanagerinstitute.com/task/getTrailerList
+Url : https://api-uat.greatmanagerinstitute.com/api/v2/test/getTrailerList
 
 The API Handles the request by sending back an array or links to various Youtube Trailer videos.
 
