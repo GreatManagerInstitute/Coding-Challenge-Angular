@@ -8,21 +8,21 @@ Feel free to add in any other cool tweaks or features.
 **Tech Requirements:**
 
 - Any Tech Stack
-- But Angular 2+ is preferable.
+- Angular 2+ is preferable.
 
 **Task**
 =====
 
-1. User will upload the images (CRUD).
-2. User then select the multiple images and make group of those images
-3. Generate the link of the group of images and make it shareable.
-4. And when the new user clicks on the shared link it will display the selected images.
+1. User will upload the images (Preferred locally). If you want you upload on any cloud services wil be good.
+2. User able to edit and delete (CRUD Operations).
+3. User able to select uploaded images on frond end and able to group multiple images.
+4. On multiple selected images user can create sharable link which can be accessible to certain time.
+5. User able to edit and delete sharable link.
 
 **Goals of this Challenge**
 =====
 
-- Get to know your Knowledge of dealing with an Developing and using API.
+- Get to know your Knowledge of Developing and dealing with API.
 - Visualisation of Data from that API.
 - Understanding Coding Practices.
 - Understanding Component communication.
-- Know your Expertise of Any tech stack.
