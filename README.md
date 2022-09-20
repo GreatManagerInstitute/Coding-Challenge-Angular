@@ -10,6 +10,12 @@ Feel free to add in any other cool tweaks or features.
 - Any Tech Stack
 - But Angular 2+ is preferable.
 
+**API**
+=====
+Url : https://api-uat.greatmanagerinstitute.com/api/v2/test/getTrailerList
+
+The API Handles the request by sending back an array or links to various Youtube Trailer videos.
+
 **Task**
 =====
 
