@@ -5,18 +5,10 @@ The Challenge is to build a movie player with image thumbnails with a playlist s
 
 Feel free to add in any other cool tweaks or features.
 
-[Sample Video](https://s3.ap-south-1.amazonaws.com/s3.gpms/videoForCodingChallenge.webp)
-
 **Tech Requirements:**
 
-- Angular 2+
-
-**API**
-=====
-Url : https://api-uat.greatmanagerinstitute.com/api/v2/test/getTrailerList
-
-The API Handles the request by sending back an array or links to various Youtube Trailer videos.
-
+- Any Tech Stack
+- But Angular 2+ is preferable.
 
 **Task**
 =====
