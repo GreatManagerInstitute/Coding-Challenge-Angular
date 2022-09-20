@@ -13,7 +13,7 @@ Feel free to add in any other cool tweaks or features.
 **Task**
 =====
 
-1. User will upload the images (Preferred locally). If you want you upload on any cloud services wil be good.
+1. User will upload the images (preferred locally). If you want you can use any cloud services to store images(good to have).
 2. User able to edit and delete (CRUD Operations).
 3. User able to select uploaded images on frond end and able to group multiple images.
 4. On multiple selected images user can create sharable link which can be accessible to certain time.
@@ -22,7 +22,7 @@ Feel free to add in any other cool tweaks or features.
 **Goals of this Challenge**
 =====
 
-- Get to know your Knowledge of Developing and dealing with API.
-- Visualisation of Data from that API.
-- Understanding Coding Practices.
-- Understanding Component communication.
+- Get to know your knowledge of developing and dealing with API.
+- Visualisation of data from that API.
+- Understanding coding practices.
+- Understanding component communication.
