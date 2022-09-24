@@ -12,9 +12,7 @@ Feel free to add in any other cool tweaks or features.
 
 **API**
 =====
-Url : https://api-uat.greatmanagerinstitute.com/api/v2/test/getTrailerList
-
-The API Handles the request by sending back an array or links to various Youtube Trailer videos.
+Create an api that fetch's the video url and thumbnail from youtube and return the list.
 
 **Task**
 =====
