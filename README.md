@@ -14,7 +14,7 @@ Feel free to add in any other cool tweaks or features.
 =====
 Create an api that fetch's the video url and thumbnail from youtube and return the list.
 
-Refer to below Sample API URL:
+Refer to below sample API URL:
 https://api-uat.greatmanagerinstitute.com/api/v2/getTrailerList
 
 **Task**
